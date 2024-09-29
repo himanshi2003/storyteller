@@ -1,6 +1,7 @@
 import streamlit as st
 from groq import Groq
 import base64
+import groq
 
 # Initialize Groq client
 client = Groq()
